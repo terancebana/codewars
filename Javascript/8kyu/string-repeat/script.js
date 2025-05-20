@@ -6,5 +6,3 @@ function repeatStr (n, s) {
   }
   return '';
 }
-
-console.log(repeatStr(3, 'hello')); // hellohellohello
