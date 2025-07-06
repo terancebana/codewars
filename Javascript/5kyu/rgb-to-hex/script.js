@@ -8,3 +8,5 @@ function rgb(r, g, b) {
   const hexB = rangeB.toString(16).padStart(2, '0')
   return (hexR + hexG + hexB).toUpperCase();
 }
+
+console.log(rgb(255, 255, 0))
