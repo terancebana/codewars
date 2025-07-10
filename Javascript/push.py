@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+
+
 import subprocess
 import sys
 import argparse
@@ -17,18 +19,15 @@ def main():
     parser.add_argument('-m', '--message', required=True, help='Commit message')
     args = parser.parse_args()
 
-    # Stage all changes
     if not run_command("git add ."):
         print("Failed to stage changes")
         sys.exit(1)
 
-    # Commit with message
     commit_command = f'git commit -m "{args.message}"'
     if not run_command(commit_command):
         print("Failed to commit changes")
         sys.exit(1)
 
-    # Push to GitHub
     if not run_command("git push"):
         print("Failed to push to GitHub")
         sys.exit(1)
