@@ -1,0 +1,1 @@
+This is the folder that contains the tasks of all kyus that was done on codewars
