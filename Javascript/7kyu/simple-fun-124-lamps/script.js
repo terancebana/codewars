@@ -10,6 +10,9 @@ function lamps(a) {
           comp_b.push(1)
       }
   }
+
+//   console.log(comp_a)
+//   console.log(comp_b)
   
  for(let i = 0; i < a.length; i++){
      if( a[i] !== comp_a[i]){
@@ -23,3 +26,5 @@ function lamps(a) {
   
 
 }
+
+console.log(lamps([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]))
