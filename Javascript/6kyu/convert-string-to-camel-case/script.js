@@ -10,6 +10,6 @@ function toCamelCase(str){
     }
     return str.join('')
   }else{
-      return "An empty string was provided but not returned"
+      return ""
   }
 }
