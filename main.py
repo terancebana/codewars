@@ -120,7 +120,10 @@ def write_solution(kata, solution):
 
     # turn kata name into a safe filename
     slug = kata.get("slug", "unknown")
-    filename = slug.replace("-", "_") + ".py"
+    rank = kata.get("rank", {}).get("name", "unknown rank")
+    # turns "7 kyu" into "7kyu"
+    rank_prefix = rank.replace(" ", "")
+    filename = f"{rank_prefix}_python_{slug.replace('-', '_')}.py"
     filepath = day_dir / filename
 
     rank = kata.get("rank", {}).get("name", "unknown rank")
@@ -149,7 +152,11 @@ def git_push(today):
             cwd=BASE_DIR,
             check=True,
         )
-        subprocess.run(["git", "push"], cwd=BASE_DIR, check=True)
+        subprocess.run(
+            ["git", "push", "--set-upstream", "origin", "master"],
+            cwd=BASE_DIR,
+            check=True,
+        )
         print("[info] pushed to github successfully")
     except subprocess.CalledProcessError as e:
         print(f"[error] git operation failed: {e}")
