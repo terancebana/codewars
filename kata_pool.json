@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "molecule-to-atoms",
+    "name": "Molecule to atoms",
+    "rank": "5 kyu"
+  },
+  {
+    "slug": "split-strings",
+    "name": "Split Strings",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "euclidean-distance-in-n-dimensions",
+    "name": "Euclidean distance in n dimensions",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "fizzbuzz-plus-plus",
+    "name": "FizzBuzz++",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "fibonacci-streaming",
+    "name": "Fibonacci Streaming",
+    "rank": "5 kyu"
+  },
+  {
+    "slug": "tortoise-racing",
+    "name": "Tortoise racing",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "ordered-count-of-characters",
+    "name": "Ordered Count of Characters",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "simple-fun-74-growing-plant",
+    "name": "Simple Fun #74: Growing Plant",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "pascals-triangle",
+    "name": "Pascal's Triangle",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "deep-freeze",
+    "name": "Deep Freeze",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "tribonacci-sequence",
+    "name": "Tribonacci Sequence",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "find-the-missing-letter",
+    "name": "Find the missing letter",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "jumping-number-special-numbers-series-number-4",
+    "name": "Jumping Number (Special Numbers Series #4)",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "find-the-unique-number",
+    "name": "Find the unique number",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "whats-a-perfect-power-anyway",
+    "name": "What's a Perfect Power anyway?",
+    "rank": "5 kyu"
+  },
+  {
+    "slug": "which-are-in",
+    "name": "Which are in?",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "excel-sheet-column-numbers",
+    "name": "Excel sheet column numbers",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "title-case",
+    "name": "Title Case",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "string-ends-with",
+    "name": "String ends with?",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "sum-of-odd-numbers",
+    "name": "Sum of odd numbers",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "maximum-triplet-sum-array-series-number-7",
+    "name": "Maximum Triplet Sum (Array Series #7)",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "seven-ate-nine",
+    "name": "Seven \"ate\" nine!",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "the-coupon-code",
+    "name": "The Coupon Code",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "chain-me",
+    "name": "Chain me",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "texting-with-an-old-school-mobile-phone",
+    "name": "Texting with an old-school mobile phone",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "reverse-inside-parentheses",
+    "name": "Reverse Inside Parentheses",
+    "rank": "5 kyu"
+  },
+  {
+    "slug": "most-profit-from-stock-quotes",
+    "name": "Most profit from stock quotes",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "moves-in-squared-strings-i",
+    "name": "Moves in squared strings (I)",
+    "rank": "7 kyu"
+  },
+  {
+    "slug": "moves-in-squared-strings-ii",
+    "name": "Moves in squared strings (II)",
+    "rank": "6 kyu"
+  },
+  {
+    "slug": "failed-sort-bug-fixing-4",
+    "name": "Failed Sort - Bug Fixing #4",
+    "rank": "7 kyu"
+  }
+]
