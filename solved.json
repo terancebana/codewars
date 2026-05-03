@@ -38,5 +38,15 @@
     "slug": "the-coupon-code",
     "name": "The Coupon Code",
     "solved_on": "2026-05-02"
+  },
+  {
+    "slug": "moves-in-squared-strings-i",
+    "name": "Moves in squared strings (I)",
+    "solved_on": "2026-05-03"
+  },
+  {
+    "slug": "ordered-count-of-characters",
+    "name": "Ordered Count of Characters",
+    "solved_on": "2026-05-03"
   }
 ]
