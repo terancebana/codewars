@@ -48,5 +48,15 @@
     "slug": "ordered-count-of-characters",
     "name": "Ordered Count of Characters",
     "solved_on": "2026-05-03"
+  },
+  {
+    "slug": "tribonacci-sequence",
+    "name": "Tribonacci Sequence",
+    "solved_on": "2026-05-05"
+  },
+  {
+    "slug": "which-are-in",
+    "name": "Which are in?",
+    "solved_on": "2026-05-05"
   }
 ]
