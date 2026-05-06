@@ -58,5 +58,10 @@
     "slug": "which-are-in",
     "name": "Which are in?",
     "solved_on": "2026-05-05"
+  },
+  {
+    "slug": "chain-me",
+    "name": "Chain me",
+    "solved_on": "2026-05-06"
   }
 ]
