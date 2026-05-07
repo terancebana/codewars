@@ -63,5 +63,10 @@
     "slug": "chain-me",
     "name": "Chain me",
     "solved_on": "2026-05-06"
+  },
+  {
+    "slug": "moves-in-squared-strings-ii",
+    "name": "Moves in squared strings (II)",
+    "solved_on": "2026-05-07"
   }
 ]
