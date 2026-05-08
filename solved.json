@@ -73,5 +73,10 @@
     "slug": "string-ends-with",
     "name": "String ends with?",
     "solved_on": "2026-05-07"
+  },
+  {
+    "slug": "find-the-unique-number",
+    "name": "Find the unique number",
+    "solved_on": "2026-05-08"
   }
 ]
