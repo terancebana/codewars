@@ -78,5 +78,10 @@
     "slug": "find-the-unique-number",
     "name": "Find the unique number",
     "solved_on": "2026-05-08"
+  },
+  {
+    "slug": "find-the-missing-letter",
+    "name": "Find the missing letter",
+    "solved_on": "2026-05-08"
   }
 ]
