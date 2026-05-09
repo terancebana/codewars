@@ -93,5 +93,10 @@
     "slug": "excel-sheet-column-numbers",
     "name": "Excel sheet column numbers",
     "solved_on": "2026-05-09"
+  },
+  {
+    "slug": "tortoise-racing",
+    "name": "Tortoise racing",
+    "solved_on": "2026-05-09"
   }
 ]
