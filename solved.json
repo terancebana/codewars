@@ -83,5 +83,15 @@
     "slug": "find-the-missing-letter",
     "name": "Find the missing letter",
     "solved_on": "2026-05-08"
+  },
+  {
+    "slug": "molecule-to-atoms",
+    "name": "Molecule to atoms",
+    "solved_on": "2026-05-09"
+  },
+  {
+    "slug": "excel-sheet-column-numbers",
+    "name": "Excel sheet column numbers",
+    "solved_on": "2026-05-09"
   }
 ]
