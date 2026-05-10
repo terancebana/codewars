@@ -98,5 +98,10 @@
     "slug": "tortoise-racing",
     "name": "Tortoise racing",
     "solved_on": "2026-05-09"
+  },
+  {
+    "slug": "euclidean-distance-in-n-dimensions",
+    "name": "Euclidean distance in n dimensions",
+    "solved_on": "2026-05-10"
   }
 ]
