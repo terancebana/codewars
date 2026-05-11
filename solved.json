@@ -103,5 +103,10 @@
     "slug": "euclidean-distance-in-n-dimensions",
     "name": "Euclidean distance in n dimensions",
     "solved_on": "2026-05-10"
+  },
+  {
+    "slug": "pascals-triangle",
+    "name": "Pascal's Triangle",
+    "solved_on": "2026-05-11"
   }
 ]
