@@ -108,5 +108,10 @@
     "slug": "pascals-triangle",
     "name": "Pascal's Triangle",
     "solved_on": "2026-05-11"
+  },
+  {
+    "slug": "fizzbuzz-plus-plus",
+    "name": "FizzBuzz++",
+    "solved_on": "2026-05-12"
   }
 ]
