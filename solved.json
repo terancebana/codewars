@@ -113,5 +113,10 @@
     "slug": "fizzbuzz-plus-plus",
     "name": "FizzBuzz++",
     "solved_on": "2026-05-12"
+  },
+  {
+    "slug": "whats-a-perfect-power-anyway",
+    "name": "What's a Perfect Power anyway?",
+    "solved_on": "2026-05-20"
   }
 ]
